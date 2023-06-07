@@ -25,6 +25,7 @@ footer, figcaption{
     font-size: 12px;
 }
 p{
+    text-align: center;
     color: #39393A;
 }
 main{
